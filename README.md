@@ -1,4 +1,4 @@
-# Stock Market Analysis with Compliance and AML Integration
+# Stock Market Analysis 
 This repository contains an in-depth analysis of Reliance stock data using Python and a suite of data analysis libraries. The project goes beyond standard stock performance analysis to incorporate compliance-focused features and Anti-Money Laundering (AML) anomaly detection, making it a unique blend of financial analysis and regulatory technology.
 
 ## Overview
